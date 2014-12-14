@@ -12,7 +12,9 @@ For more information and background please visit https://paretech.wordpress.com/
 ## Installation
 1. Verify that Tunnelblick is installed.
 2. Verify that Tunnelblick has been executed at least once before proceeding.
-3. Copy the *.tblk files to ~/Library/Application Support/Tunnelblick/Configurations
+3. If Tunnelblick is running, terminate/execute the program.
+4. Copy the *.tblk files to ~/Library/Application Support/Tunnelblick/Configurations.
+5. Start Tunnelblick.
 
 ## Notes
 1. These configuration files have been tested on a system running Macintosh OS X 10.9.5 and Tunnelblick 3.4.2 (build 4055.4161)
