@@ -15,6 +15,9 @@ For more information and background please visit https://paretech.wordpress.com/
 3. If Tunnelblick is running, terminate/execute the program.
 4. Copy the *.tblk files to ~/Library/Application Support/Tunnelblick/Configurations or open each config with Tunnelblick (for example by double clicking each one and following onscreen menus).
 5. Start Tunnelblick.
+6. Click on the Tunnelblick icon by the "Spotlight Icon" and select the desired server. 
+7. Follow onscreen instructions.
+8. If all went well, do internet connected things as normal (but now safer).
 
 ## Notes
 1. These configuration files have been tested on a system running Macintosh OS X 10.9.5 and Tunnelblick 3.4.2 (build 4055.4161)
